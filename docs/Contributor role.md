@@ -4,7 +4,9 @@ Contributor role
 Overview
 --------
 
-The 'Contributor' role in the SDP-Tide Drupal Content Management System (CMS) is designed for users responsible for content creation and basic editing. This document outlines the specific permissions and capabilities for the Contributor role.Content Management
+The 'Contributor' role in the SDP-Tide Drupal Content Management System (CMS) is designed for users responsible for content creation and basic editing. This document outlines the specific permissions and capabilities for the Contributor role.
+
+## Content Management
 
 ### Nodes (Pages) - All Content Types
 
